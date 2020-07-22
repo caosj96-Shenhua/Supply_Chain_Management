@@ -13,7 +13,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author Kiksuya
+ * @author Shijun
  */
 public class PurchaseManagerJPanel extends javax.swing.JPanel {
 

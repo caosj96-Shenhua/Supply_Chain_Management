@@ -18,7 +18,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author zhanghaojie
+ * @author Shijun
  */
 public class AddShoesJpanel extends javax.swing.JPanel {
 

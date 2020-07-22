@@ -11,7 +11,7 @@ import Business.Network.Network;
 
 /**
  *
- * @author zhanghaojie
+ * @author Shijun
  */
 public class ManageEnterpriseJPanel extends javax.swing.JPanel {
 

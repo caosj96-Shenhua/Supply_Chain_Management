@@ -16,7 +16,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author zhanghaojie
+ * @author Shijun
  */
 public class OrderManagerJPanel extends javax.swing.JPanel {
 

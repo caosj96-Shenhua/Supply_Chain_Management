@@ -9,7 +9,7 @@ import userinterface.FactoryRole.PurchaseManagerJPanel;
 
 /**
  *
- * @author Kiksuya
+ * @author Shijun
  */
 public class Agent extends Role{
 

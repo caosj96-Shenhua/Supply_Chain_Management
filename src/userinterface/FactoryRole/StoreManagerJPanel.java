@@ -12,7 +12,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author Kiksuya
+ * @author Shijun
  */
 public class StoreManagerJPanel extends javax.swing.JPanel {
 

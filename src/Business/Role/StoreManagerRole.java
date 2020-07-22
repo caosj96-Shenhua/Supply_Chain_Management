@@ -10,7 +10,7 @@ import userinterface.FactoryRole.StoreManagerJPanel;
 
 /**
  *
- * @author Kiksuya
+ * @author Shijun
  */
 public class StoreManagerRole extends Role {
 

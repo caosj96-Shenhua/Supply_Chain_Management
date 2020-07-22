@@ -9,7 +9,7 @@ import userinterface.SupplierRole.LogisticsManagerJPanel;
 
 /**
  *
- * @author Kiksuya
+ * @author Shijun
  */
 public class LogisticsManagerRole extends Role {
 

@@ -16,7 +16,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author Kiksuya
+ * @author Shijun
  */
 public class AssignWorkerManagerJPanel extends javax.swing.JPanel {
 

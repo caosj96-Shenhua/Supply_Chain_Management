@@ -5,7 +5,7 @@ import java.util.Comparator;
 
 /**
  *
- * @author Kiksuya
+ * @author Shijun
  */
 public class SortByPrice implements  Comparator<Cargo>{
       public SortByPrice() {

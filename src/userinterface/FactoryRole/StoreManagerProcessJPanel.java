@@ -19,7 +19,7 @@ import javax.swing.JPanel;
 import javax.swing.table.DefaultTableModel;
 
 /**
- * @author Kiksuya
+ * @author Shijun
  */
 public class StoreManagerProcessJPanel extends javax.swing.JPanel {
 

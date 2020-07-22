@@ -7,7 +7,7 @@ import java.util.Map;
 
 /**
  *
- * @author Kiksuya
+ * @author Shijun
  */
 public class SortByAge implements Comparator<Employee>{
     public SortByAge() {

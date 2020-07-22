@@ -9,7 +9,7 @@ import javax.swing.JPanel;
 
 /**
  *
- * @author Kiksuya
+ * @author Shijun
  */
 public class FactoryAdminRole extends Role{
 

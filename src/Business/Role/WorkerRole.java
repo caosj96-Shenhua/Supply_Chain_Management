@@ -9,7 +9,7 @@ import userinterface.SupplierRole.WorkerJPanel;
 
 /**
  *
- * @author Kiksuya
+ * @author Shijun
  */
 public class WorkerRole extends Role {
 

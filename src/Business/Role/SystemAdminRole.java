@@ -13,7 +13,7 @@ import javax.swing.JPanel;
 
 /**
  *
- * @author Kiksuya
+ * @author Shijun
  */
 public class SystemAdminRole extends Role{
 

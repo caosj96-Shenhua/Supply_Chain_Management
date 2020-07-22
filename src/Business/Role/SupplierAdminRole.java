@@ -9,7 +9,7 @@ import userinterface.AdministrativeRole.Supplier_AdminWorkAreaInterfaceJPanel;
 
 /**
  *
- * @author Kiksuya
+ * @author Shijun
  */
 public class SupplierAdminRole extends Role{
 

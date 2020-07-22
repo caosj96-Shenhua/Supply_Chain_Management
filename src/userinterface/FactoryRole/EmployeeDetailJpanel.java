@@ -10,7 +10,7 @@ import javax.swing.JPanel;
 
 /**
  *
- * @author zhanghaojie
+ * @author Shijun
  */
 public class EmployeeDetailJpanel extends javax.swing.JPanel {
 

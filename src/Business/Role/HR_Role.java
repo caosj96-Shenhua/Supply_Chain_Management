@@ -9,7 +9,7 @@ import userinterface.FactoryRole.HRManager;
 
 /**
  *
- * @author Kiksuya
+ * @author Shijun
  */
 public class HR_Role extends Role {
 

@@ -8,7 +8,7 @@ import javax.swing.JPanel;
 
 /**
  *
- * @author zhanghaojie
+ * @author Shijun
  */
 public class Supplier_AdminWorkAreaInterfaceJPanel extends javax.swing.JPanel {
 

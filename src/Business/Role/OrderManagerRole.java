@@ -9,7 +9,7 @@ import userinterface.FactoryRole.OrderManagerJPanel;
 
 /**
  *
- * @author Kiksuya
+ * @author Shijun
  */
 public class OrderManagerRole extends Role {
 

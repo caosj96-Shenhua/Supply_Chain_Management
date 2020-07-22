@@ -10,7 +10,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author zhanghaojie
+ * @author Shijun
  */
 public class Supplier_ManageOrganizationJPanel extends javax.swing.JPanel {
 

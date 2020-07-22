@@ -16,7 +16,7 @@ import javax.swing.JPanel;
 
 /**
  *
- * @author Kiksuya
+ * @author Shijun
  */
 public class AssignToWorkerJPanel extends javax.swing.JPanel {
 
