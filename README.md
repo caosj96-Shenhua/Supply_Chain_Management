@@ -1,6 +1,8 @@
 # Supply_Chain_Management
 
-This project is build with Java, please open it with Java Netbeans https://netbeans.apache.org/download/index.html
+This project is build with Java, please download the exctuable JAR folder and open SupplyManagementChain.jar
+
+or you can open it with Java Netbeans https://netbeans.apache.org/download/index.html
 
 LogIn Username: sysadmin
 
