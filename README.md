@@ -1,12 +1,12 @@
 # Supply_Chain_Management
 
-This project is build with Java, please download the exctuable JAR folder and open SupplyManagementChain.jar
+**This project is build with Java, please download the exctuable JAR folder and open SupplyManagementChain.jar**
 
 or you can open it with Java Netbeans https://netbeans.apache.org/download/index.html
 
-LogIn Username: sysadmin
+**LogIn Username: sysadmin**
 
-LogIn Password: sysadmin
+**LogIn Password: sysadmin**
 
 A series of modern management of logistics, information flow, capital flow and trade
 partnership in the supply chain are organized, planned, coordinated, controlled and optimized.
